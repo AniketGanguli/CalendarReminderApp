@@ -113,13 +113,7 @@ CalendarReminderApp/
 * 🔁 **Advanced recurring patterns** (e.g., every 3 days, bi-weekly)
 * 🧪 **Unit testing & CI pipeline** for production readiness
 
----
 
-## 🪪 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 👤 Author
 

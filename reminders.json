@@ -1,0 +1,50 @@
+{
+    "one_time": {
+      "2025-05-10": {
+        "time": "09:00",
+        "text": "Doctor appointment"
+      },
+      "2025-05-12": {
+        "time": "18:30",
+        "text": "Team meeting with Devjit"
+      },
+      "2025-05-24": {
+        "time": "05:00",
+        "text": "call devjit"
+      },
+      "2025-05-04": {
+        "time": "18:45",
+        "text": "urgent"
+      }
+    },
+    "recurring": {
+      "daily": [
+        {
+          "time": "07:00",
+          "text": "Morning workout"
+        }
+      ],
+      "weekly": {
+        "Monday": [
+          {
+            "time": "10:00",
+            "text": "Weekly team check-in"
+          }
+        ],
+        "Friday": [
+          {
+            "time": "14:00",
+            "text": "End-of-week review"
+          }
+        ]
+      },
+      "monthly": {
+        "15": [
+          {
+            "time": "08:00",
+            "text": "Monthly report deadline"
+          }
+        ]
+      }
+    }
+  }  
